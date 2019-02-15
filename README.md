@@ -12,6 +12,7 @@
 ![Babel](https://github.com/lgcolella/repository-stuff/raw/master/96/babel.png "Babel")
 ![Electron](https://github.com/lgcolella/repository-stuff/raw/master/96/electron.png "Electron")
 ![ESLint](https://github.com/lgcolella/repository-stuff/raw/master/96/eslint.png "ESLint")
+![Express](https://github.com/lgcolella/repository-stuff/raw/master/96/express.png "Express")
 ![Gatsby](https://github.com/lgcolella/repository-stuff/raw/master/96/gatsby.png "Gatsby")
 ![GraphQL](https://github.com/lgcolella/repository-stuff/raw/master/96/graphql.png "GraphQL")
 ![Jasmine](https://github.com/lgcolella/repository-stuff/raw/master/96/jasmine.png "Jasmine")
