@@ -10,6 +10,7 @@
 
 ![Angular](https://github.com/lgcolella/repository-stuff/raw/master/96/angular.png "Angular")
 ![Babel](https://github.com/lgcolella/repository-stuff/raw/master/96/babel.png "Babel")
+![Docker](https://github.com/lgcolella/repository-stuff/raw/master/96/docker.png "Docker")
 ![Electron](https://github.com/lgcolella/repository-stuff/raw/master/96/electron.png "Electron")
 ![ESLint](https://github.com/lgcolella/repository-stuff/raw/master/96/eslint.png "ESLint")
 ![Express](https://github.com/lgcolella/repository-stuff/raw/master/96/express.png "Express")
@@ -20,6 +21,7 @@
 ![Less](https://github.com/lgcolella/repository-stuff/raw/master/96/less.png "Less")
 ![Material](https://github.com/lgcolella/repository-stuff/raw/master/96/material.png "Material")
 ![Materialize](https://github.com/lgcolella/repository-stuff/raw/master/96/materialize.png "Materialize")
+![MongoDB](https://github.com/lgcolella/repository-stuff/raw/master/96/mongo.png "MongoDB")
 ![React](https://github.com/lgcolella/repository-stuff/raw/master/96/react.png "React")
 ![Sass](https://github.com/lgcolella/repository-stuff/raw/master/96/sass.png "Sass")
 ![Snyk](https://github.com/lgcolella/repository-stuff/raw/master/96/snyk.png "Snyk")
