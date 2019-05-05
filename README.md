@@ -23,6 +23,7 @@
 ![Materialize](https://github.com/lgcolella/repository-stuff/raw/master/96/materialize.png "Materialize")
 ![MongoDB](https://github.com/lgcolella/repository-stuff/raw/master/96/mongo.png "MongoDB")
 ![React](https://github.com/lgcolella/repository-stuff/raw/master/96/react.png "React")
+![Redis](https://github.com/lgcolella/repository-stuff/raw/master/96/redis.png "Redis")
 ![Sass](https://github.com/lgcolella/repository-stuff/raw/master/96/sass.png "Sass")
 ![Snyk](https://github.com/lgcolella/repository-stuff/raw/master/96/snyk.png "Snyk")
 ![Travis](https://github.com/lgcolella/repository-stuff/raw/master/96/travis.png "Travis")
