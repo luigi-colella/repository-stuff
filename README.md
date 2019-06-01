@@ -17,6 +17,7 @@
 ![Gatsby](https://github.com/lgcolella/repository-stuff/raw/master/96/gatsby.png "Gatsby")
 ![GraphQL](https://github.com/lgcolella/repository-stuff/raw/master/96/graphql.png "GraphQL")
 ![Jasmine](https://github.com/lgcolella/repository-stuff/raw/master/96/jasmine.png "Jasmine")
+![Jest](https://github.com/lgcolella/repository-stuff/raw/master/96/jest.png "Jest")
 ![Karma](https://github.com/lgcolella/repository-stuff/raw/master/96/karma.png "Karma")
 ![Less](https://github.com/lgcolella/repository-stuff/raw/master/96/less.png "Less")
 ![Material](https://github.com/lgcolella/repository-stuff/raw/master/96/material.png "Material")
