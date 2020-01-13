@@ -11,6 +11,7 @@
 
 ![Angular](https://github.com/lgcolella/repository-stuff/raw/master/96/angular.png "Angular")
 ![Babel](https://github.com/lgcolella/repository-stuff/raw/master/96/babel.png "Babel")
+![Bootstrap](https://github.com/lgcolella/repository-stuff/raw/master/96/bootstrap.png "Bootstrap")
 ![CSS](https://github.com/lgcolella/repository-stuff/raw/master/96/css.png "CSS")
 ![Docker](https://github.com/lgcolella/repository-stuff/raw/master/96/docker.png "Docker")
 ![Electron](https://github.com/lgcolella/repository-stuff/raw/master/96/electron.png "Electron")
@@ -39,6 +40,8 @@
 ![RxJS](https://github.com/lgcolella/repository-stuff/raw/master/96/rxjs.png "RxJS")
 ![Sass](https://github.com/lgcolella/repository-stuff/raw/master/96/sass.png "Sass")
 ![Snyk](https://github.com/lgcolella/repository-stuff/raw/master/96/snyk.png "Snyk")
+![SpringBoot](https://github.com/lgcolella/repository-stuff/raw/master/96/spring-boot.png "Spring Boot")
+![Thymeleaf](https://github.com/lgcolella/repository-stuff/raw/master/96/thymeleaf.png "Thymeleaf")
 ![Travis](https://github.com/lgcolella/repository-stuff/raw/master/96/travis.png "Travis")
 ![Typescript](https://github.com/lgcolella/repository-stuff/raw/master/96/typescript.png "Typescript")
 ![Vagrant](https://github.com/lgcolella/repository-stuff/raw/master/96/vagrant.png "Vagrant")
